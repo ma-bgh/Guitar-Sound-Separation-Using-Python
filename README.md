@@ -41,7 +41,7 @@ pip install numpy scipy matplotlib
 Clone the repository:
 
 ```bash
-git clone https://github.com/ma-bgh/Guitar-Sound-Separation.git
+git clone https://github.com/ma-bgh/Guitar-Sound-Separation-Using-Python.git
 ```
 
 Move into the project directory:
